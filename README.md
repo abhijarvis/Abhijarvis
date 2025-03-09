@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK PANDIT</h1>
 <h3 align="center">A passionate Embedded Developer from India</h3>
 
-<h3 align="left">🧑‍💻 I’m currently working on <h1>Engine Control System</h1> as A <h1>Senior Designer</h1></h3>
+<h3 align="left">🧑‍💻 I’m currently working on <b>Engine Control System</b> as A <b>Senior Designer</b></h3>
 
 <h3 align="left">⚙️ I’m currently Working With <b>C, C++ & Python</b></h3>
 
